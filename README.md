@@ -1,6 +1,6 @@
 # github-potd-
 bullet points
-# search your desired question by typing the keyword "gfg potd (date-month-22)" for gfg and "lc potd(date-month-22)"
+# search your desired question by typing the keyword "gfg potd (date-month-22)" for gfg and "lc potd(date-month-22) for leetcode"
 
 #this repository contain all the potd (problem of the day from geeks for geeks and leetcode)
 
